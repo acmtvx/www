@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ACMTVX.ORG
+tagline:          'ACM TVX organization'
+description:      'Formerly known as European Interactive TV organization'
+url:              http://www.acmtvx.org
+
+author:
+  name:           'ACMTVX Media Chair'
+  url:            https://twitter.com/acmtvx
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/organization/acmtvx
