@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Committee
 ---
 
 Pablo Cesar, CWI, The Netherlands
