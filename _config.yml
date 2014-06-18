@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            ACMTVX.ORG
+title:            ACMTVX
 tagline:          'ACM TVX organization'
 description:      'Formerly known as European Interactive TV organization'
 url:              http://www.acmtvx.org
