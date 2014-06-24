@@ -5,6 +5,8 @@ title: Honorary Committee
 
 Gunnar Harboe, University of Zurich, Switzerland
 
+Jens F. Jensen, Aalborg University, Denmark
+
 Judith Masthoff, University of Aberdeen, Scotland
 
 Lyn Pemberton, Brighton University, UK
