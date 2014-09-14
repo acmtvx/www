@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Conference series
 ---
 
 ACM TVX 2014, Newcastle, UK, June 25-27, 2014
