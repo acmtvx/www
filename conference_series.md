@@ -3,7 +3,7 @@ layout: page
 title: Conference series
 ---
 
-[ACM TVX 2014](http://tvx2014.com/), Newcastle, UK, June 25-27, 2014
+[ACM TVX 2014](http://tvx2014.com/), Newcastle, UK, June 25-27, 2014, [Proceedings](http://dl.acm.org/citation.cfm?id=2602299&coll=DL&dl=ACM)
 
 [EuroITV 2013](http://www.euro-itv.org/), Thinking Outside the Box, Como, Italy, June 24-26, 2013, [Proceedings](http://dl.acm.org/citation.cfm?id=2465958)
 
@@ -19,7 +19,7 @@ EuroITV 2008, Changing Television Environments, Salzburg, Austria, July 3-4, 200
 
 [EuroITV 2007](http://homepages.cwi.nl/~garcia/euroitv2007/EuroITV-2007.html), Interactive TV: A Shared Experience, Amsterdam, The Netherlands, May 24-25, 2007, [Proceedings](http://www.springer.com/computer/hci/book/978-3-540-72558-9)
 
-EuroITV 2006, Beyond Usability, Broadcast, and TV, Athens, Greece. May 25-26, 2006, [Proceedings](http://dl.acm.org/citation.cfm?id=1111309)
+EuroITV 2006, Beyond Usability, Broadcast, and TV, Athens, Greece. May 25-26, 2006 
 
 EuroITV 2005, User Centred ITV Systems, Programmes and Applications, Aalborg, Denmark. 30 March - 1 April, 2005
 
