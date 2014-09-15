@@ -12,7 +12,7 @@ EuroITV2009, [Networked Television](http://link.springer.com/journal/530/17/1/pa
 EuroITV 2007, [Multimedia Systems, Languages, and Infrastructures for Interactive Television](http://link.springer.com/journal/530/14/2/)
 
 
-[Social Television and User Interaction](http://dl.acm.org/citation.cfm?doid=1350843.1350847)
+&nbsp;&nbsp;[Social Television and User Interaction](http://dl.acm.org/citation.cfm?doid=1350843.1350847)
 
 JLKJL[Human-Centered Television](http://dl.acm.org/citation.cfm?id=1412196&picked=prox&CFID=424629405&CFTOKEN=37349639)
               
