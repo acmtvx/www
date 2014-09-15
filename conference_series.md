@@ -25,4 +25,4 @@ EuroITV 2005, User Centred ITV Systems, Programmes and Applications, Aalborg, De
 
 [EuroITV 2004](http://www.it.bton.ac.uk/staff/lp22/euroitv2004/), Enhancing the Experience, Brighton, U.K. 31 March - 2 April, 2004
 
-EuroITV 2003, from Viewers to Actors?, Brighton, UK, 2-4 April, 2003 [Proceedings]
+EuroITV 2003, from Viewers to Actors?, Brighton, UK, 2-4 April, 2003
