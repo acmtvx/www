@@ -2,14 +2,13 @@
 layout: page
 title: Special Issues
 ---
+Personal and Ubiquitous Computing, [Interactive Experiences for Television and Online Video](http://pucitvandvideoexperiences.wordpress.com), TVX2014
 
 Multimedia Systems Journal, [Social Recommendation and Delivery Systems for Video and TV Content](http://link.springer.com/article/10.1007/s00530-013-0345-x), EuroiTV 2011
 
 Multimedia Systems Journal,	[Multimedia Systems, Languages, and Infrastructures for Interactive Television](http://link.springer.com/journal/530/14/2/), EuroITV 2007
 
 Multimedia Systems Journal,	[Networked Television](http://link.springer.com/journal/530/17/1/page/1), EuroITV2009
-
-Personal and Ubiquitous Computing, [Interactive Experiences for Television and Online Video](http://pucitvandvideoexperiences.wordpress.com), TVX2014
 
 Multimedia Tools and Applications, [Advances in tools, techniques and practices for multimedia QoE](http://link.springer.com/article/10.1007%2Fs11042-014-2203-z), EuroITV workshop
 
