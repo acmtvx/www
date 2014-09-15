@@ -15,9 +15,9 @@ EuroITV 2010, web. sharing. tv. content, Finland, June 9-11, 2010
 
 [EuroITV 2009](http://www.euroitv2009.org/), Networked TV, Belgium, June 3-5, 2009
 
-EuroITV 2008, Changing Television Environments, Salzburg, Austria, July 3-4, 2008
+[EuroITV 2008](http://homepages.cwi.nl/~garcia/euroitv2007/EuroITV-2007.html), Changing Television Environments, Salzburg, Austria, July 3-4, 2008
 
-[EuroITV 2007](http://homepages.cwi.nl/~garcia/euroitv2007/EuroITV-2007.html), Interactive TV: A Shared Experience, Amsterdam, The Netherlands, May 24-25, 2007
+EuroITV 2007, Interactive TV: A Shared Experience, Amsterdam, The Netherlands, May 24-25, 2007
 
 EuroITV 2006, Beyond Usability, Broadcast, and TV, Athens, Greece. May 25-26, 2006
 
