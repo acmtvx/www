@@ -5,7 +5,7 @@ title: Conference series
 
 [ACM TVX 2014](http://tvx2014.com/), Newcastle, UK, June 25-27, 2014, [Proceedings](http://dl.acm.org/citation.cfm?id=2602299&coll=DL&dl=ACM)
 
-[EuroITV 2013](http://www.euro-itv.org/), Thinking Outside the Box, Como, Italy, June 24-26, 2013, [Proceedings](http://dl.acm.org/citation.cfm?id=2465958)
+[EuroITV 2013](http://www.euro-itv.org/), Thinking Outside the Box, Como, Italy, June 24-26, 2013
 
 EuroITV 2012, Bridging People, Places and Platforms, Berlin, Germany, July 4-6, 2012, [Proceedings](http://dl.acm.org/citation.cfm?id=2325616)
 
