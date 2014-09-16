@@ -3,6 +3,8 @@ layout: page
 title: Committee
 ---
 
+Santosh Basapur, Institute of Design, IIT, USA
+
 Pablo Cesar, CWI, The Netherlands
 
 Konstantinos Chorianopoulos, Ionian University, Greece
@@ -18,5 +20,3 @@ Artur Lugmayr, Tampere University of Technology, Finland
 Marianna Obrist, Newcastle/Sussex University, UK
 
 David A. Shamma, Yahoo! Research, USA
-
-Santosh Basapur, Institute of Design, IIT, USA
