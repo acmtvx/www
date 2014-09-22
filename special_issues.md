@@ -3,7 +3,7 @@ layout: page
 title: Special Issues
 ---
 
-Personal and Ubiquitous Computing, [Interactive Experiences for Television and Online Video](http://pucitvandvideoexperiences.wordpress.com), TVX2014
+Personal and Ubiquitous Computing, [Interactive Experiences for Television and Online Video](http://pucitvandvideoexperiences.wordpress.com) /, TVX2014
 
 Multimedia Tools and Applications, [Advances in tools, techniques and practices for multimedia QoE](http://link.springer.com/article/10.1007%2Fs11042-014-2203-z), QoE for Multimedia Content Sharing workshop series
 
