@@ -23,6 +23,6 @@ ACM Computers in Entertainment, [Social Television and User Interaction](http://
 
 Journal of Virtual Reality and Broadcasting, [Methods and Applications in Interactive Broadcasting](http://www.jvrb.org/past-issues/4.2007/1093), July 2007
 
-ACM Computers in Entertainment, [Interactive TV](http://dl.acm.org/citation.cfm?id=1279540&picked=prox&cfid=426430114&cftoken=73078372), April/June 2007
-
 IGI Global, [Interactive Digital Television: Technologies and Applications](http://www.igi-global.com/book/interactive-digital-television/640), May 2007
+
+ACM Computers in Entertainment, [Interactive TV](http://dl.acm.org/citation.cfm?id=1279540&picked=prox&cfid=426430114&cftoken=73078372), April/June 2007
