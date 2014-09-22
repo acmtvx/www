@@ -10,7 +10,7 @@ Multimedia Systems Journal, [Social Recommendation and Delivery Systems for Vide
 
 Multimedia Systems Journal,	[Networked Television](http://link.springer.com/journal/530/17/1/page/1), EuroITV2009
 
-IGI Global, [Social Interactive Television: Immersive Shared Experiences and Perspectives](http://www.igi-global.com/book/social-interactive-television/916),SocialTV workshops series
+IGI Global, [Social Interactive Television: Immersive Shared Experiences and Perspectives](http://www.igi-global.com/book/social-interactive-television/916), SocialTV workshops series
 
 Multimedia Systems Journal,	[Multimedia Systems, Languages, and Infrastructures for Interactive Television](http://link.springer.com/journal/530/14/2/), EuroITV 2007
 
