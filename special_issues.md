@@ -2,9 +2,10 @@
 layout: page
 title: Special Issues
 ---
-Multimedia Tools and Applications, [Advances in tools, techniques and practices for multimedia QoE](http://link.springer.com/article/10.1007%2Fs11042-014-2203-z), QoE for Multimedia Content Sharing workshop series
 
 Personal and Ubiquitous Computing, [Interactive Experiences for Television and Online Video](http://pucitvandvideoexperiences.wordpress.com), TVX2014
+
+Multimedia Tools and Applications, [Advances in tools, techniques and practices for multimedia QoE](http://link.springer.com/article/10.1007%2Fs11042-014-2203-z), QoE for Multimedia Content Sharing workshop series
 
 Multimedia Systems Journal, [Social Recommendation and Delivery Systems for Video and TV Content](http://link.springer.com/article/10.1007/s00530-013-0345-x), EuroiTV 2011
 
