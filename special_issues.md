@@ -13,6 +13,9 @@ Telematics and Informatics, [Television in a digital era - Usage and policy issu
 
 Multimedia Systems Journal,	[Networked Television](http://link.springer.com/journal/530/17/1/page/1), Feb 2011
 
+Entertainment Computing, [User experiences in the new TV landscape](http://www.sciencedirect.com/science/journal/18759521/2/3), 2011
+
+
 ACM Computers in Entertainment, [TV and video entertainment environments](http://dl.acm.org/citation.cfm?id=1594943&CFID=433866863&CFTOKEN=66604891), September 2009
 
 Multimedia Systems Journal, [Personal Interactive (TV) Environments](http://link.springer.com/journal/530/15/3/page/1), July 2009
