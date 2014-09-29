@@ -7,6 +7,8 @@ Personal and Ubiquitous Computing, [Interactive Experiences for Television and O
 
 Multimedia Tools and Applications, [Advances in tools, techniques and practices for multimedia QoE](http://link.springer.com/article/10.1007%2Fs11042-014-2203-z), Aug 2014 
 
+Behaviour & Information Technology, [Thinking beyond the Box: Designing Interactive TV across Different Devices](http://www.tandfonline.com/toc/tbit20/33/8), July 2014
+
 Multimedia Systems Journal, [Social Recommendation and Delivery Systems for Video and TV Content](http://link.springer.com/article/10.1007/s00530-013-0345-x), Oct 2013 
 
 Telematics and Informatics, [Television in a digital era - Usage and policy issues](http://www.sciencedirect.com/science/journal/07365853/28/4), November 2011
@@ -37,5 +39,3 @@ Journal of Virtual Reality and Broadcasting, [Methods and Applications in Intera
 IGI Global, [Interactive Digital Television: Technologies and Applications](http://www.igi-global.com/book/interactive-digital-television/640), May 2007
 
 ACM Computers in Entertainment, [Interactive TV](http://dl.acm.org/citation.cfm?id=1279540&picked=prox&cfid=426430114&cftoken=73078372), April/June 2007
-
-Behaviour & Information Technology, [Thinking beyond the Box: Designing Interactive TV across Different Devices](http://www.tandfonline.com/toc/tbit20/33/8), July 2004
