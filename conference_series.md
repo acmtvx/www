@@ -3,7 +3,7 @@ layout: page
 title: Conference series
 ---
 
-[ACM TVX 2015](http://tvx2015.com/), Brussels, Belgium, June 3-5, 2015, [Proceedings](ttp://dl.acm.org/citation.cfm?id=2745197&CFID=526339786&CFTOKEN=40520934)
+[ACM TVX 2015](http://tvx2015.com/), Brussels, Belgium, June 3-5, 2015, [Proceedings](http://dl.acm.org/citation.cfm?id=2745197)
 
 [ACM TVX 2014](http://tvx2014.com/), Newcastle, UK, June 25-27, 2014, [Proceedings](http://dl.acm.org/citation.cfm?id=2602299&coll=DL&dl=ACM)
 
