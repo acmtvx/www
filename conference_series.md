@@ -11,7 +11,7 @@ EuroITV 2013, Thinking Outside the Box, Como, Italy, June 24-26, 2013, [Proceedi
 
 EuroITV 2012, Bridging People, Places and Platforms, Berlin, Germany, July 4-6, 2012, [Proceedings](http://dl.acm.org/citation.cfm?id=2325616)
 
-[EuroITV 2011](http://euroitv2011.ulusofona.pt/), Ubiquitous TV, Lisbon, Portugal, June 29 – July 1, 2011, [Proceedings](http://dl.acm.org/citation.cfm?id=2000119)
+EuroITV 2011, Ubiquitous TV, Lisbon, Portugal, June 29 – July 1, 2011, [Proceedings](http://dl.acm.org/citation.cfm?id=2000119)
 
 EuroITV 2010, web. sharing. tv. content, Finland, June 9-11, 2010, [Proceedings](http://dl.acm.org/citation.cfm?id=1809777)
 
