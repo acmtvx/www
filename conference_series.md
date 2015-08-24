@@ -2,7 +2,7 @@
 layout: page
 title: Conference series
 ---
-The Steering Committee of the ACM International Conference on Interactive Experiences for TV and Online Video (ACM TVX) invites bidders for hosting the conference in 2017. Applicants should follow the guidelines as described in the 'bidding guidelines document' [INSERT LINK TO DOCUMENT IN ATTACH] and submit their proposals by September 25th 2015 to <mailto:tvxsc@ls.kuleuven.be>, after which the Steering Committee will evaluate all proposals.
+The Steering Committee of the ACM International Conference on Interactive Experiences for TV and Online Video (ACM TVX) invites bidders for hosting the conference in 2017. Applicants should follow the guidelines as described in the [a bidding guidelines document link](https://www.dropbox.com/s/zrkhe2eufmm2kst/ACMTVX_biddingProcessGuidelines_2015.pdf?dl=0) and submit their proposals by September 25th 2015 to <mailto:tvxsc@ls.kuleuven.be>, after which the Steering Committee will evaluate all proposals.
 
 [ACM TVX 2015](http://tvx2015.com/), Brussels, Belgium, June 3-5, 2015, [Proceedings](http://dl.acm.org/citation.cfm?id=2745197)
 
