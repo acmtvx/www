@@ -23,8 +23,8 @@ EuroITV 2008, Changing Television Environments, Salzburg, Austria, July 3-4, 200
 
 EuroITV 2006, Beyond Usability, Broadcast, and TV, Athens, Greece. May 25-26, 2006 
 
-EuroITV 2005, User Centred ITV Systems, Programmes and Applications, Aalborg, Denmark. 30 March - 1 April, 2005, [Proceedings](https://homepages.abdn.ac.uk/j.masthoff/pages/EuroITV03/Proceedings.htm)
+EuroITV 2005, User Centred ITV Systems, Programmes and Applications, Aalborg, Denmark. 30 March - 1 April, 2005
 
 [EuroITV 2004](http://www.it.bton.ac.uk/staff/lp22/euroitv2004/), Enhancing the Experience, Brighton, U.K. 31 March - 2 April, 2004, [Proceedings](https://homepages.abdn.ac.uk/j.masthoff/pages/EuroITV04/ProceedingsContents.htm)
 
-EuroITV 2003, from Viewers to Actors?, Brighton, UK, 2-4 April, 2003
+EuroITV 2003, from Viewers to Actors?, Brighton, UK, 2-4 April, 2003, [Proceedings](https://homepages.abdn.ac.uk/j.masthoff/pages/EuroITV03/Proceedings.htm)
