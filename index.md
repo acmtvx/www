@@ -13,4 +13,4 @@ TVX is the evolution of the EuroITV conference on Interactive TV, and as such is
 
 Contact the steering committee <mailto:tvx@acm.org> 
 
-Join our mailing list <mailto:tvxsc@ls.kuleuven.be> 
+Join our mailing list <tvx-sc@listserv.acm.org> 
