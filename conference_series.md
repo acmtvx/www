@@ -3,11 +3,13 @@ layout: page
 title: Conference series
 ---
 
+[ACM TVX 2016](http://tvx2016.com/), 22-24 June 2015, Chicago, USA
+
 [ACM TVX 2015](http://tvx2015.com/), Brussels, Belgium, June 3-5, 2015, [Proceedings](http://dl.acm.org/citation.cfm?id=2745197)
 
 [ACM TVX 2014](http://tvx2014.com/), Newcastle, UK, June 25-27, 2014, [Proceedings](http://dl.acm.org/citation.cfm?id=2602299&coll=DL&dl=ACM)
 
-EuroITV 2013, Thinking Outside the Box, Como, Italy, June 24-26, 2013, [Proceedings](http://dl.acm.org/citation.cfm?id=2465958)
+[EuroITV 2013](https://sites.google.com/a/euro-itv.org/2013/), Thinking Outside the Box, Como, Italy, June 24-26, 2013, [Proceedings](http://dl.acm.org/citation.cfm?id=2465958)
 
 EuroITV 2012, Bridging People, Places and Platforms, Berlin, Germany, July 4-6, 2012, [Proceedings](http://dl.acm.org/citation.cfm?id=2325616)
 
