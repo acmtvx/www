@@ -3,7 +3,7 @@ layout: page
 title: Conference series
 ---
 
-[TXV 2017](http://tvx2017.acm.org), 14-16 June 2017, Hilversum, the Netherlands
+[ACM TXV 2017](http://tvx2017.acm.org), 14-16 June 2017, Hilversum, the Netherlands
 
 [ACM TVX 2016](http://tvx2016.com/), 22-24 June 2016, Chicago, USA
 
