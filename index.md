@@ -15,4 +15,4 @@ Participate in the [TVX Asia Forum](http://rise.hanyang.ac.kr/tvxasiaforum2016) 
 
 Contact the steering committee <mailto:tvx@acm.org> 
 
-Join our mailing list <tvx-announce@listserv.acm.org> 
+Join our mailing list (<tvx-announce@listserv.acm.org>) by sending a mail to <listserv@acm.org> with the following text in the body of the mail: subscribe tvx-announce Firstname Lastname
