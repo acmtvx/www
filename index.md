@@ -17,6 +17,6 @@ TVX is the evolution of the EuroITV conference on Interactive TV, and as such is
 
 Contact the steering committee <mailto:tvx@acm.org> 
 
-Join our mailing list (<tvx-announce@listserv.acm.org>) by sending a mail to <listserv@acm.org> with the following text in the body of the mail:
+Join our mailing list (<tvx-announce@listserv.acm.org>) using the [subscription form on this page](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?SUBED1=TVX-ANNOUNCE&A=1) or by sending a mail to <listserv@acm.org> with the following text in the body of the mail:
 
 subscribe tvx-announce Firstname Lastname
